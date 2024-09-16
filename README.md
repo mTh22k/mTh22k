@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## Meu nome é Matheus ferreira Marquesini, sou estudante de informatica biomedica na universidade federal do Parana!
 
